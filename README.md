@@ -35,15 +35,18 @@ Coming soon.
 
 ## Contact
 
-**Email:** sam.oliveira.dev@gmail.com • [Compose in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=sam.oliveira.dev@gmail.com&su=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A) • [Compose in Outlook](https://outlook.live.com/owa/?path=/mail/action/compose&to=sam.oliveira.dev@gmail.com&subject=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)  
-
-**LinkedIn:** [linkedin.com/in/jose-samuel-oliveira](https://www.linkedin.com/in/jose-samuel-oliveira)
+- **Email:** sam.oliveira.dev@gmail.com 
+- **Compose in Gmail:** [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=sam.oliveira.dev@gmail.com&su=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)
+- **Compose in Outlook:** [Outlook](https://outlook.live.com/owa/?path=/mail/action/compose&to=sam.oliveira.dev@gmail.com&subject=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)  
+- **LinkedIn:** [linkedin.com/in/jose-samuel-oliveira](https://www.linkedin.com/in/jose-samuel-oliveira)
+- **Website:** [sam-ciber-dev.github.io](https://sam-ciber-dev.github.io)
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). See LICENSE for details.
+This repository is licensed under the [**MIT License**](LICENSE). See LICENSE for details.
 
 ## Social Preview
+
 The social preview image used for link cards:
 
 <img src="assets/social-preview.png" alt="Samuel Oliveira Portfolio — Cybersecurity, DevOps, Web, Software" width="640">
