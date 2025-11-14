@@ -37,7 +37,7 @@ Repository: *coming soon*
 
 ## License
 
-This repository is licensed under the [**MIT License**](LICENSE). See LICENSE for details.
+This repository is licensed under the [**MIT License**](LICENSE). See [**LICENSE**](LICENSE) for details.
 
 ## Social Preview
 
